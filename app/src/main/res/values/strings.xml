@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">broadcast</string>
+    <string name="alarme">Alarme iniciar</string>
+    <string name="tempo_do_alarme_em_segundos">Tempo do alarme em segundos</string>
+</resources>
